@@ -1,0 +1,35 @@
+unmarked:
+  title: ラブライブ!
+  unit: μ's
+  trio_units:
+    - printemps
+    - bibi
+    - lily_white
+  members:
+    - rin
+    - hanayo
+    - maki
+    - honoka
+    - umi
+    - kotori
+    - eli
+    - nozomi
+    - nico
+
+sunshine:
+  title: ラブライブ!サンシャイン!!
+  unit: aqours
+  trio_units:
+    - cyaron
+    - azalea
+    - guilty_kiss
+  members:
+    - yoshiko
+    - hanamaru
+    - ruby
+    - chika
+    - riko
+    - you
+    - kanan
+    - dia
+    - mari

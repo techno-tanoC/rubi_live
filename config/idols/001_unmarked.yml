@@ -1,0 +1,71 @@
+rin:
+  name: 星空凛
+  school_year: 1
+  birthday: 11/01
+  blood_type: A
+  height: 155
+  cast_name: 飯田里穂
+
+hanayo:
+  name: 小泉花陽
+  school_year: 1
+  birthday: 01/17
+  blood_type: B
+  height: 156
+  cast_name: 久保ユリカ
+
+maki:
+  name: 西木野真姫
+  school_year: 1
+  birthday: 04/19
+  blood_type: AB
+  height: 161
+  cast_name: Pile
+
+honoka:
+  name: 高坂穂乃果
+  school_year: 2
+  birthday: 08/03
+  blood_type: O
+  height: 157
+  cast_name: 新田恵海
+
+umi:
+  name: 園田海未
+  school_year: 2
+  birthday: 03/15
+  blood_type: A
+  height: 159
+  cast_name: 三森すずこ
+
+kotori:
+  name: 南ことり
+  school_year: 2
+  birthday: 09/12
+  blood_type: O
+  height: 159
+  cast_name: 内田彩
+
+eli:
+  name: 絢瀬絵里
+  school_year: 3
+  birthday: 10/21
+  blood_type: B
+  height: 162
+  cast_name: 南條愛乃
+
+nozomi:
+  name: 東條希
+  school_year: 3
+  birthday: 06/09
+  blood_type: O
+  height: 159
+  cast_name: 楠田亜衣奈
+
+nico:
+  name: 矢澤にこ
+  school_year: 3
+  birthday: 07/22
+  blood_type: A
+  height: 154
+  cast_name: 徳井青空

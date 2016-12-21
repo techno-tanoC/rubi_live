@@ -1,0 +1,71 @@
+yoshiko:
+  name: 津島善子
+  school_year: 1
+  birthday: 07/13
+  blood_type: O
+  height: 156
+  cast_name: 小林愛香
+
+hanamaru:
+  name: 国木田花丸
+  school_year: 1
+  birthday: 03/04
+  blood_type: O
+  height: 152
+  cast_name: 高槻かなこ
+
+ruby:
+  name: 黒澤ルビィ
+  school_year: 1
+  birthday: 09/21
+  blood_type: A
+  height: 154
+  cast_name: 降幡愛
+
+chika:
+  name: 高海千歌
+  school_year: 2
+  birthday: 08/01
+  blood_type : B
+  height: 157
+  cast_name: 伊波杏樹
+
+riko:
+  name: 桜内梨子
+  school_year: 2
+  birthday: 09/19
+  blood_type: A
+  height: 160
+  cast_name: 逢田梨香子
+
+you:
+  name: 渡辺曜
+  school_year: 2
+  birthday: 04/17
+  blood_type: AB
+  height: 157
+  cast_name: 斉藤朱夏
+
+kanan:
+  name: 松浦果南
+  school_year: 3
+  birthday: 02/10
+  blood_type: O
+  height: 162
+  cast_name: 諏訪ななか
+
+dia:
+  name: 黒澤ダイヤ
+  school_year: 3
+  birthday: 01/01
+  blood_type: A
+  height: 162
+  cast_name: 小宮有紗
+
+mari:
+  name: 小原鞠莉
+  school_year: 3
+  birthday: 06/13
+  blood_type: AB
+  height: 163
+  cast_name: 鈴木愛奈
