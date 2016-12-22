@@ -21,7 +21,8 @@ module RubiLive
         @config ||= YAML.load_file(ConfigPath).deep_symbolize_keys
       end
 
-      def find(unit_name)
+      def find(name)
+        unit_name = name.to_sym
         raise UnknownUnitError unless valid?(unit_name)
 
         @cache ||= {}

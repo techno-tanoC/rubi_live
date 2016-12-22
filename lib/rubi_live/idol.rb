@@ -20,8 +20,9 @@ module RubiLive
         @config ||= YAML.load_file(ConfigPath).deep_symbolize_keys
       end
 
-      def find(idol_name)
-        raise "unknown idol: #{idol_name}" unless valid?(idol_name)
+      def find(name)
+        idol_name = name.to_sym
+        raise "unknown idol: #{name}" unless valid?(idol_name)
 
         @cache ||= {}
         unless @cache[idol_name]

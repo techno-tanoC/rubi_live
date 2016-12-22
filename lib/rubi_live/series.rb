@@ -5,7 +5,13 @@ module RubiLive
 
     def members
       self[:idols].map do |member|
-        RubiLive::Idol.find(member.to_sym)
+        RubiLive::Idol.find(member)
+      end
+    end
+
+    def trio_units
+      self[:trio_units].map do |trio_unit|
+        RubiLive::Unit.find(trio_unit)
       end
     end
 
@@ -21,7 +27,8 @@ module RubiLive
         @config ||= YAML.load_file(ConfigPath).deep_symbolize_keys
       end
 
-      def find(series_name)
+      def find(name)
+        series_name = name.to_sym
         raise UnknownSeriesError unless valid?(series_name)
 
         @cache ||= {}
