@@ -4,7 +4,7 @@ module RubiLive
     include Enumerable
 
     def members
-      self[:members].map do |member|
+      self[:idols].map do |member|
         RubiLive::Idol.find(member.to_sym)
       end
     end

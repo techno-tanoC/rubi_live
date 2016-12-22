@@ -1,41 +1,41 @@
 printemps:
   name: Printemps
-  members:
+  idols:
     - hanayo
     - honoka
     - kotori
 
 bibi:
   name: BiBi
-  members:
+  idols:
     - maki
     - eli
     - nico
 
-lili_white:
+lily_white:
   name: Lili White
-  members:
+  idols:
     - rin
     - umi
     - nozomi
 
 cyaron:
   name: CYaRon!
-  members:
+  idols:
     - ruby
     - chika
     - you
 
 azalea:
   name: AZALEA
-  members:
+  idols:
     - hanamaru
     - kanan
     - dia
 
 guilty_kiss:
   name: Guilty Kiss
-  members:
+  idols:
     - yoshiko
     - riko
     - mari
