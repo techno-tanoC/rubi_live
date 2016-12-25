@@ -8,6 +8,14 @@ require 'rubi_live/series'
 require 'rubi_live/errors'
 
 module RubiLive
+  extend Enumerable
+
+  def self.each(&block)
+    RubiLive::Idol.names.map {|name|
+      RubiLive::Idol.find(name)
+    }.each(&block)
+  end
+
   class << self
     [RubiLive::Series, RubiLive::Unit, RubiLive::Idol].each do |klass|
       klass.names.each do |name|
