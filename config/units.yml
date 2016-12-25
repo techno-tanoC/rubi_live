@@ -1,3 +1,23 @@
+muse:
+  name: μ’s
+  idols:
+    - rin
+    - hanayo
+    - maki
+    - honoka
+    - umi
+    - kotori
+    - eli
+    - nozomi
+    - nico
+
+arise:
+  name: A-RISE
+  idols:
+    - tsubasa
+    - erena
+    - annju
+
 printemps:
   name: Printemps
   idols:
@@ -18,6 +38,25 @@ lily_white:
     - rin
     - umi
     - nozomi
+
+aqours:
+  name: Aqours
+  idols:
+    - yoshiko
+    - hanamaru
+    - ruby
+    - chika
+    - riko
+    - you
+    - kanan
+    - dia
+    - mari
+
+saint_snow:
+  name: Saint Snow
+  idols:
+    - sarah
+    - lear
 
 cyaron:
   name: CYaRon!

@@ -1,6 +1,6 @@
 unmarked:
   title: ラブライブ!
-  unit: μ's
+  unit: muse
   trio_units:
     - printemps
     - bibi
@@ -15,6 +15,9 @@ unmarked:
     - eli
     - nozomi
     - nico
+    - tsubasa
+    - erena
+    - anju
 
 sunshine:
   title: ラブライブ!サンシャイン!!
@@ -33,3 +36,5 @@ sunshine:
     - kanan
     - dia
     - mari
+    - sarah
+    - lear

@@ -5,6 +5,9 @@ rin:
   blood_type: A
   height: 155
   cast_name: 飯田里穂
+  units:
+    - muse
+    - lily_white
 
 hanayo:
   name: 小泉花陽
@@ -13,6 +16,9 @@ hanayo:
   blood_type: B
   height: 156
   cast_name: 久保ユリカ
+  units:
+    - muse
+    - printemps
 
 maki:
   name: 西木野真姫
@@ -21,6 +27,9 @@ maki:
   blood_type: AB
   height: 161
   cast_name: Pile
+  units:
+    - muse
+    - bibi
 
 honoka:
   name: 高坂穂乃果
@@ -29,6 +38,9 @@ honoka:
   blood_type: O
   height: 157
   cast_name: 新田恵海
+  units:
+    - muse
+    - printemps
 
 umi:
   name: 園田海未
@@ -37,6 +49,9 @@ umi:
   blood_type: A
   height: 159
   cast_name: 三森すずこ
+  units:
+    - muse
+    - lily_white
 
 kotori:
   name: 南ことり
@@ -45,6 +60,9 @@ kotori:
   blood_type: O
   height: 159
   cast_name: 内田彩
+  units:
+    - muse
+    - printemps
 
 eli:
   name: 絢瀬絵里
@@ -53,6 +71,9 @@ eli:
   blood_type: B
   height: 162
   cast_name: 南條愛乃
+  units:
+    - muse
+    - bibi
 
 nozomi:
   name: 東條希
@@ -61,6 +82,9 @@ nozomi:
   blood_type: O
   height: 159
   cast_name: 楠田亜衣奈
+  units:
+    - muse
+    - lily_white
 
 nico:
   name: 矢澤にこ
@@ -69,6 +93,39 @@ nico:
   blood_type: A
   height: 154
   cast_name: 徳井青空
+  units:
+    - muse
+    - bibi
+
+tsubasa:
+  name: 綺羅ツバサ
+  school_year:
+  birthday:
+  blood_type:
+  height: 154
+  cast_name: 桜川めぐ
+  units:
+    - arise
+
+erena:
+  name: 統堂英玲奈
+  school_year:
+  birthday:
+  blood_type:
+  height: 163
+  cast_name: 松永真穂
+  units:
+    - arise
+
+anju:
+  name: 優木あんじゅ
+  school_year:
+  birthday:
+  blood_type:
+  height: 160
+  cast_name: 大橋歩夕
+  units:
+    - arise
 
 yoshiko:
   name: 津島善子
@@ -77,6 +134,9 @@ yoshiko:
   blood_type: O
   height: 156
   cast_name: 小林愛香
+  units:
+    - aqours
+    - guilty_kiss
 
 hanamaru:
   name: 国木田花丸
@@ -85,6 +145,9 @@ hanamaru:
   blood_type: O
   height: 152
   cast_name: 高槻かなこ
+  units:
+    - aqours
+    - azalea
 
 ruby:
   name: 黒澤ルビィ
@@ -93,6 +156,9 @@ ruby:
   blood_type: A
   height: 154
   cast_name: 降幡愛
+  units:
+    - aqours
+    - cyaron
 
 chika:
   name: 高海千歌
@@ -101,6 +167,9 @@ chika:
   blood_type : B
   height: 157
   cast_name: 伊波杏樹
+  units:
+    - aqours
+    - cyaron
 
 riko:
   name: 桜内梨子
@@ -109,6 +178,9 @@ riko:
   blood_type: A
   height: 160
   cast_name: 逢田梨香子
+  units:
+    - aqours
+    - guilty_kiss
 
 you:
   name: 渡辺曜
@@ -117,6 +189,9 @@ you:
   blood_type: AB
   height: 157
   cast_name: 斉藤朱夏
+  units:
+    - aqours
+    - cyaron
 
 kanan:
   name: 松浦果南
@@ -125,6 +200,9 @@ kanan:
   blood_type: O
   height: 162
   cast_name: 諏訪ななか
+  units:
+    - aqours
+    - azalea
 
 dia:
   name: 黒澤ダイヤ
@@ -133,6 +211,9 @@ dia:
   blood_type: A
   height: 162
   cast_name: 小宮有紗
+  units:
+    - aqours
+    - azalea
 
 mari:
   name: 小原鞠莉
@@ -141,3 +222,26 @@ mari:
   blood_type: AB
   height: 163
   cast_name: 鈴木愛奈
+  units:
+    - aqours
+    - guilty_kiss
+
+sarah:
+  name: 鹿角聖良
+  school_year:
+  birthday:
+  blood_type:
+  height: 163
+  cast_name: 田野アサミ
+  units:
+    - saint_snow
+
+lear:
+  name: 鹿角理亞
+  school_year:
+  birthday:
+  blood_type:
+  height:
+  cast_name: 佐藤日向
+  units:
+    - saint_snow
