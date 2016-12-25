@@ -12,6 +12,12 @@ module RubiLive
       birthday_date == date
     end
 
+    def units
+      self[:units].map do |unit|
+        RubiLive::Unit.find(unit)
+      end
+    end
+
     class << self
       ConfigPath = config_file = "#{File.dirname(__FILE__)}/../../config/idols.yml"
       private_constant :ConfigPath
