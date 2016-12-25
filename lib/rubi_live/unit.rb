@@ -23,7 +23,7 @@ module RubiLive
 
       def find(name)
         unit_name = name.to_sym
-        raise UnknownUnitError unless valid?(unit_name)
+        raise UnknownUnitError.new("unknown unit: #{name}") unless valid?(unit_name)
 
         @cache ||= {}
         unless @cache[unit_name]

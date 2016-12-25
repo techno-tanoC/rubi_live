@@ -29,7 +29,7 @@ module RubiLive
 
       def find(name)
         series_name = name.to_sym
-        raise UnknownSeriesError unless valid?(series_name)
+        raise UnknownSeriesError.new("unknown series: #{name}") unless valid?(series_name)
 
         @cache ||= {}
         unless @cache[series_name]

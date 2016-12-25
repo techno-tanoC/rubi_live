@@ -22,7 +22,7 @@ module RubiLive
 
       def find(name)
         idol_name = name.to_sym
-        raise "unknown idol: #{name}" unless valid?(idol_name)
+        raise UnknownIdolError.new("unknown idol: #{name}") unless valid?(idol_name)
 
         @cache ||= {}
         unless @cache[idol_name]
